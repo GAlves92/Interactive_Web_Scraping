@@ -21,7 +21,7 @@ let parameters = {
       html: function (row) { return row.shape; }
     },
     {
-      title: 'Durantion Minutes',
+      title: 'Duration Minutes',
       html: function (row) { return row.durationMinutes; }
     },
     {
