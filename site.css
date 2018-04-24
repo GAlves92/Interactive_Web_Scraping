@@ -1,0 +1,30 @@
+.lead {
+    font-size: 25px;
+    color: #fff;
+}
+
+.jumbotron > .col-md-12 {
+    padding-top: 1.00rem;
+    padding-bottom: .5rem;
+    margin: 1.00rem;
+    border-radius: 5%;
+    background-color: #32383E;
+    border: 1px solid #eee;
+}
+
+.mynav {
+    padding: 0;
+}
+.smaller {
+    font-size: 14px;
+}
+.larger {
+    font-size: 20px;
+    color: red;
+}
+.card .col-md-12 {
+    margin: 5px;
+}
+.list-group-item:hover {
+    background-color:black;
+} 
